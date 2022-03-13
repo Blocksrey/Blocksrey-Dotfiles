@@ -13,5 +13,8 @@ export WLR_NO_HARDWARE_CURSORS=1
 export PS0=':3 '
 export PS1='\u@\h->\W: '
 
+# ls colors :D
+alias ls='ls --color'
+
 pipewire &
 sway &
