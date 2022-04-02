@@ -17,4 +17,4 @@ export PS1='\u@\h->\W: '
 ./bashrc
 
 pipewire &
-sway &
+startx /bin/i3 &
